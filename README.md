@@ -2,7 +2,7 @@
   <img src="https://github.com/Tanmay-Tiwaricyber/Telegram-Scraper-Adder/blob/main/Add%20a%20heading.png" >
 </p>
 
-<p align="center"><img src="https://img.shields.io/badge/Version-1.01-brightgreen"></p>
+<p align="center"><img src="https://img.shields.io/badge/Version-1.0-brightgreen"></p>
 <p align="center">
   <a href="https://github.com/Tanmay-Tiwaricyber">
     <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
