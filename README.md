@@ -5,10 +5,10 @@
 <p align="center"><img src="https://img.shields.io/badge/Version-1.0-brightgreen"></p>
 <p align="center">
   <a href="https://github.com/Tanmay-Tiwaricyber">
-    <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
+    <img src="https://img.shields.io/github/followers/Tanmay-Tiwaricyber?label=Follow&style=social">
   </a>
   <a href="https://github.com/Tanmay-Tiwaricyber/Telegram-Scraper-Adder">
-    <img src="https://img.shields.io/github/stars/th3unkn0n/TeleGram-Group-Scraper?style=social">
+    <img src="https://img.shields.io/github/stars/Tanmay-Tiwaricyber/Telegram-Scraper-Adder?style=social">
   </a>
 </p>
 <p align="center">
