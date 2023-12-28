@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://1.bp.blogspot.com/-bMerZKbriRY/X0YzqiPFCsI/AAAAAAAAAP8/1GHlVlmMGcQsHu8cxeK1o5WkTe2VeXlDgCLcBGAsYHQ/s1652/Picture_20200826_152605754.jpg" width="470" height="150">
+  <img src="https://github.com/Tanmay-Tiwaricyber/Telegram-Scraper-Adder/blob/main/Add%20a%20heading.png" >
 </p>
 
 <p align="center"><img src="https://img.shields.io/badge/Version-1.01-brightgreen"></p>
